@@ -15,6 +15,7 @@ $supabase = initializeSupabase();
 checkLogin();
 sessionTimer();
 
+
 $database_user = 'program_user';
 
 $org_name = null;
